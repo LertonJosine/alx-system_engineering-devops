@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -L _hello|chown -L _hello
+chgrp -h _hello|chown -h _hello
