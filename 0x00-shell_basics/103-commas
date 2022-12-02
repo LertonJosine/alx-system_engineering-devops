@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(ls -avxF --format=commas)\n"
+echo -e "$(ls -avp --format=commas)\n"
