@@ -7,3 +7,5 @@ Added the file 5-firstlines
 aded file 6-third_line
 correction of a bug
 correction of a bug
+correction of a bug
+correction of a bug
