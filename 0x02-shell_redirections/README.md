@@ -4,3 +4,4 @@ Cunfused smile task
 added 3-twofiles file
 added file 4-lastlines
 Added the file 5-firstlines
+aded file 6-third_line
